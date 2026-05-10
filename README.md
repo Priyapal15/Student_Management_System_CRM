@@ -25,13 +25,18 @@ A modern web-based Student Management System built using React, TypeScript, and 
 ## Screenshot
 
 Dashboard:-
+
  <img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/5b725a22-62c7-4eae-a3cf-a81f64e91da4" />
  
-Leads:- 
- <img width="1920" height="1000" alt="image" src="https://github.com/user-attachments/assets/bc25f1f0-b489-4742-bdfb-493f4cf75791" />
+Leads:-
+
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/385d45fd-dfa5-48ed-abca-2d5caaa4779a" />
+
 
 Creating Batches:- 
- <img width="1920" height="1000" alt="image" src="https://github.com/user-attachments/assets/032592f8-c84e-4383-aa02-9921392a9284" />
+
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/de0c25d3-33eb-4612-96de-377eb70a1d4a" />
+
 
  
 
