@@ -25,13 +25,13 @@ A modern web-based Student Management System built using React, TypeScript, and 
 ## Screenshot
 
 Dashboard:-
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8c7a44c-fc4c-491e-9de8-9f0bd4c0e39d" />
+ <img width="1920" height="1000" alt="image" src="https://github.com/user-attachments/assets/a8c7a44c-fc4c-491e-9de8-9f0bd4c0e39d" />
 
 Leads:- 
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc25f1f0-b489-4742-bdfb-493f4cf75791" />
+ <img width="1920" height="1000" alt="image" src="https://github.com/user-attachments/assets/bc25f1f0-b489-4742-bdfb-493f4cf75791" />
 
 Creating Batches:- 
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/032592f8-c84e-4383-aa02-9921392a9284" />
+ <img width="1920" height="1000" alt="image" src="https://github.com/user-attachments/assets/032592f8-c84e-4383-aa02-9921392a9284" />
 
  
 
@@ -151,10 +151,6 @@ npm install
 
 ---
 
-# Example README Installation Section
-
-````md
-````
 ## Installation
 
 1. Clone the repository
