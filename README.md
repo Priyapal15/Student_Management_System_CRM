@@ -1,6 +1,4 @@
-# Welcome project
-
-# Student Management System
+# Student Management System - CRM 
 
 A modern web-based Student Management System built using React, TypeScript, and Vite. The application helps manage student information through an interactive dashboard and reusable UI components.
 
