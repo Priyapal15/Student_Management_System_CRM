@@ -1,7 +1,10 @@
+
+# Student Management System - CRM 
+
+
 ![React](https://img.shields.io/badge/React-Frontend-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Language-blue)
 ![Vite](https://img.shields.io/badge/Vite-BuildTool-purple)
-# Student Management System - CRM 
 
 A modern web-based Student Management System built using React, TypeScript, and Vite. The application helps manage student information through an interactive dashboard and reusable UI components.
 
