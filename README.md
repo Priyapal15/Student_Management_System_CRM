@@ -3,17 +3,11 @@
 
 
 ![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-Language-3178C6?logo=typescript)
-
 ![Vite](https://img.shields.io/badge/Vite-BuildTool-646CFF?logo=vite)
-
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?logo=tailwind-css)
-
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js)
-
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
-
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
