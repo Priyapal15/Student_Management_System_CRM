@@ -2,9 +2,45 @@
 # Student Management System - CRM 
 
 
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-Language-blue)
-![Vite](https://img.shields.io/badge/Vite-BuildTool-purple)
+![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-Language-3178C6?logo=typescript)
+
+![Vite](https://img.shields.io/badge/Vite-BuildTool-646CFF?logo=vite)
+
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?logo=tailwind-css)
+
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js)
+
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen)
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue)
+
+![Responsive](https://img.shields.io/badge/Responsive-Design-purple)
+
+![Students](https://img.shields.io/badge/Project-Student%20Management-yellow)
+
+![Made With Love](https://img.shields.io/badge/Made%20with-❤️-red)
+
+![Frontend](https://img.shields.io/badge/Frontend-ReactJS-61DAFB?logo=react)
+
+![UI](https://img.shields.io/badge/UI-TailwindCSS-06B6D4?logo=tailwindcss)
+
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+
+![Deployment](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
+
+![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode)
 
 A modern web-based Student Management System built using React, TypeScript, and Vite. The application helps manage student information through an interactive dashboard and reusable UI components.
 
